@@ -62,6 +62,7 @@ This repo is the **architecture, manifesto, and product spec** for Cadence. The 
 - `docs/RETENTION.md` — the three mechanisms, mapped to specific features and guardrails.
 - `docs/PRIVACY.md` — what data Cadence collects, what it doesn't, and why there's no AccessibilityService.
 - `docs/PRD.md` — product requirements: the "today" experience, the "week" experience, the "year" experience.
+- `docs/USER-WORKFLOW.md` — **the deep companion to the PRD.** Every screen, every state, every transition, every edge case. 1,700+ lines.
 - `docs/LOCALIZATION.md` — the FR/PT/ZH/ES/EN/TL/JA/KO localization plan, with content parity as a first-class goal.
 - `LICENSE` — MIT for the documentation. The product code is closed-source (see `LICENSE`).
 - `.github/ISSUE_TEMPLATE/` — bug report, feature request, design discussion.
@@ -75,6 +76,7 @@ This repo is the **architecture, manifesto, and product spec** for Cadence. The 
 3. Read `docs/RETENTION.md` to see the three mechanisms translated into features.
 4. Read `docs/ARCHITECTURE.md` to see the system that delivers them.
 5. Read `docs/PRIVACY.md` to see the boundaries.
+6. Read `docs/USER-WORKFLOW.md` to see every screen, every state, every edge case.
 
 If you're a contributor, start with `docs/RETENTION.md` — every feature in this product maps to one of the three mechanisms, and the guardrail tells you how to ship it without crossing the line.
 
