@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased] — v0.1 (manifesto)
 
 ### Added
+- `PHILOSOPHY.md` — the deepest layer. The why underneath the why.
 - Initial architecture, manifesto, and product spec
 - Three-mechanism framework (Craving Machine, Infinite Game, Invisible Scoreboard) — applied to product features
 - Privacy architecture with structural data minimization

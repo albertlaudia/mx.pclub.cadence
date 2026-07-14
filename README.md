@@ -56,6 +56,7 @@ This is the *smarter and sharper* version: same retention force, no exploitative
 
 This repo is the **architecture, manifesto, and product spec** for Cadence. The actual app code lives in the monorepo, which will be initialized once the spec is locked. Files here:
 
+- `PHILOSOPHY.md` — **the deepest layer.** The why underneath the why. Read this first.
 - `README.md` — this file. What Cadence is, why it exists, the three mechanisms.
 - `docs/ARCHITECTURE.md` — technical architecture: client, backend, data, sync, costs.
 - `docs/RETENTION.md` — the three mechanisms, mapped to specific features and guardrails.
@@ -69,10 +70,11 @@ This repo is the **architecture, manifesto, and product spec** for Cadence. The 
 
 ## How to read this repo
 
-1. Read `README.md` (you're here).
-2. Read `docs/RETENTION.md` to see the three mechanisms translated into features.
-3. Read `docs/ARCHITECTURE.md` to see the system that delivers them.
-4. Read `docs/PRIVACY.md` to see the boundaries.
+1. Read `PHILOSOPHY.md` — the why.
+2. Read `README.md` (you're here) — the what.
+3. Read `docs/RETENTION.md` to see the three mechanisms translated into features.
+4. Read `docs/ARCHITECTURE.md` to see the system that delivers them.
+5. Read `docs/PRIVACY.md` to see the boundaries.
 
 If you're a contributor, start with `docs/RETENTION.md` — every feature in this product maps to one of the three mechanisms, and the guardrail tells you how to ship it without crossing the line.
 
