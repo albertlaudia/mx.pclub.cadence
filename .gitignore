@@ -1,0 +1,101 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Build artifacts
+build/
+dist/
+out/
+.next/
+.turbo/
+.vercel/
+*.tsbuildinfo
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnp/
+.pnp.js
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.lock
+!pubspec.lock
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/GeneratedPluginRegistrant.java
+android/app/release/
+android/app/debug/
+macos/Pods/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+*.firebaserc.local
+
+# GCP
+gcp-credentials.json
+gcp-service-account*.json
+*.gcp-key.json
+
+# Local secrets
+.env
+.env.local
+.env.*.local
+secrets/
+*.secret
+*.key
+
+# Test outputs
+coverage/
+.nyc_output/
+*.lcov
+
+# Misc
+*.tgz
+.cache/
+.tmp/
