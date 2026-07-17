@@ -64,6 +64,7 @@ This repo is the **architecture, manifesto, and product spec** for Cadence. The 
 - `docs/PRD.md` — product requirements: the "today" experience, the "week" experience, the "year" experience.
 - `docs/USER-WORKFLOW.md` — **the deep companion to the PRD.** Every screen, every state, every transition, every edge case. 1,700+ lines.
 - `docs/LOCALIZATION.md` — the FR/PT/ZH/ES/EN/TL/JA/KO localization plan, with content parity as a first-class goal.
+- `docs/COMMERCIAL.md` — the honest business case. TAM/SAM/SOM, unit economics, 3 revenue scenarios, 10 risks, the single metric that decides the outcome (Section adoption).
 - `LICENSE` — MIT for the documentation. The product code is closed-source (see `LICENSE`).
 - `.github/ISSUE_TEMPLATE/` — bug report, feature request, design discussion.
 
