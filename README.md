@@ -2,11 +2,15 @@
 
 > A rhythmic, daily, faith-led habit platform — built on the three mechanisms that make apps feel inevitable, applied with the guardrails that keep them honest.
 
+![Cadence social preview](media/social-preview-1280x640.png)
+
 **Tagline:** *One movement a day. A rhythm you can keep.*
 
 **Repo:** `albertlaudia/mx.pclub.cadence` (architecture, manifesto, and product spec)
 **Org prefix:** `mx.pclub.*` (pclub product family)
 **Sibling apps:** `mx.pclub.caloriecounter`, `mx.pclub.pulse`, `mx.pclub.web`
+
+**The mark** — three amber dots in a gentle arc on deep midnight navy. The three dots are the three mechanisms (Craving, Infinite Game, Scoreboard), the three time scales (today, week, year), and the rhythm of a daily practice (movement → chapter → composition). Full asset set in [`media/`](media/).
 
 ---
 

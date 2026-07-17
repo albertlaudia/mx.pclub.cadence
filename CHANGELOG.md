@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased] — v0.1 (manifesto)
 
 ### Added
+- `media/` — the brand mark and full asset set. Three amber dots in a gentle arc on midnight navy — the three mechanisms, the three time scales, the rhythm of a daily practice. Includes iOS asset catalog (15 sizes), Android mipmap (5 densities + round variants), favicon set, GitHub social preview, and README hero.
+- `scripts/resize-icons.py` — regenerates all icon derivatives from the master.
+- Updated iOS `AppIcon.appiconset/Contents.json` with the full set of sizes.
+- Updated Android `mipmap-*/ic_launcher.png` and `ic_launcher_round.png` with the new mark.
 - `docs/COMMERCIAL.md` — the honest business case. TAM/SAM/SOM, unit economics, 3 revenue scenarios, 10 risks ranked by severity, the single metric that decides the outcome (Section adoption at 30/60/90 days).
 - `docs/USER-WORKFLOW.md` — the deep companion to the PRD. Every screen, every state, every transition, every edge case. 1,700+ lines covering 20 sections.
 - `PHILOSOPHY.md` — the deepest layer. The why underneath the why.
