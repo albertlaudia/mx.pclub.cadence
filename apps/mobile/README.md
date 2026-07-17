@@ -1,6 +1,6 @@
 # apps/mobile
 
-Flutter app for iOS + Android. **Phase 1 — not yet scaffolded.**
+Flutter app for iOS + Android.
 
 When this is built, it will follow the pattern from `mx.pclub.caloriecounter` and `mx.pclub.pulse`:
 - Single Flutter codebase
